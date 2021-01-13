@@ -1,4 +1,3 @@
-# FireLoggersPlotter
-FireLoggers Plotter 🔥
+# FireLoggers Plotter 🔥
 
 ![img](assets/G1_TP_63.png)
